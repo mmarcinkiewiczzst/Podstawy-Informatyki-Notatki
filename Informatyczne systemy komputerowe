@@ -9,4 +9,13 @@ Na system informatyczny składa się miedzy innymi oprogramowanie wspomagające 
 - ERP (enterprise resource planning) - planowanie zasobów przedsiębiorstwa 
 - MRP (material requirements planning) - planowanie zapotrzebowania materiałowego 
 - SCM (supply chain management) - zarządzanie łańcuchem dostaw
-System komputerowy to współdziałanie systemu informatycznego, czyli sprzętu komputerowego i oprogramowania. W pełni zautomatyzowany system komputerowy działą bez udziału człowieka
+System komputerowy to współdziałanie systemu informatycznego, czyli sprzętu komputerowego i oprogramowania. W pełni zautomatyzowany system komputerowy działą bez udziału człowieka. System komputerowy składa się z następujących warstw:
+- sprzęt
+- programy narzędziowe
+- programy użytkowe
+- system operacyjny
+- użyktownicy 
+Sprzęt - jest to procesor, pamięć operacyjna i masowa, urządzenia wejścia/wyjścia.
+System operacyjny - odpowiada za zarządzanie systemem komputerowym za pomocą programów użytkowych. Tworzy środowisko to do uruchamiania i kontroli zadań użytkownika. 
+Oprogramowanie narzędziowe - odpowiada za zarządzanie zasobami sprzętowymi poprzez interfejsy użytkowe do zarzadzania pamięcią komputera obróbki plików, diagnozowania, i konfigurowania komputera.
+Oprogramowanie użytkowe - są to programy mające zastosowanie jako konkretne oprogramowanie: Edytory, arkusze kalkulacyjne, bazy danych.
